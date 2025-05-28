@@ -6,7 +6,7 @@ Brandon Khor
 
 ## GitHub Pages URL
 
-[URL to pages](https://brandonkhor.github.io/Lab8_Starter/)
+[URL to Pages](https://brandonkhor.github.io/Lab8_Starter/)
 
 ## How are graceful degradation and service workers related?
 
